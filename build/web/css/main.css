@@ -1,0 +1,28 @@
+.navbar,nav-item,nav-link{
+    font-family: Monaco;
+    font-size: 20px;
+   
+    
+}
+
+#logoutBtn{
+    font-family: Monaco;
+    font-size: 22px;
+}
+
+#dashBtn{
+    font-family: Monaco;
+    font-size: 22px;
+}
+
+#nameOfAdmin{
+    color: white;
+    border: 3px solid white; 
+    padding: 3px;
+    
+}
+
+#loginBtn{
+    font-family: Monaco;
+    font-size: 24px;
+}
